@@ -1,0 +1,9 @@
+## ignore file
+
+*.csv
+*.png
+
+## ignore folder
+data/
+result/
+network visualization/
