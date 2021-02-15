@@ -1,8 +1,9 @@
 ## ignore file
 *.png
 *.mp4
+*.csv
 
 ## ignore folder
 data/
-result/
+results/
 network visualization/
