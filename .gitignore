@@ -2,6 +2,7 @@
 *.png
 *.mp4
 *.csv
+*.pptx
 
 ## ignore folder
 data/
